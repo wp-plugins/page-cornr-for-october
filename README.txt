@@ -1,5 +1,5 @@
 === Page Cornr for October===
-Contributors: luciano, Cathy Tibbles
+Contributors: Cathy Tibbles, luciano, 
 Tags: breast cancer, page flip, page peel, corner
 Requires at least: 2.7
 Tested up to: 2.8.4
@@ -7,16 +7,14 @@ Stable tag: 1.1
 Page Cornr has been modified by Desperately Seeking WordPress 
 on the occasion of Pink for October & Breast Cancer Awareness.
 
-=== Attribution ===  
+== Attribution == 
 Ribbon courtesy of http://carolsutton.net
-Original Page Cornr by Luciano
+Based on the original Page Cornr Plugin vby Luciano.
 
 == Description ==
-Adds a page peel in the corner of the site... with jQuery! no Flash :D
-Based on the work by Soh Tanaka: http://www.sohtanaka.com/web-design/simple-page-peel-effect-with-jquery-css/
-If your theme's stylesheet modifies the body's width, 
-PageCornr will look bad. Use a Wrapper and modify the width from it. 
-In that way, PageCornr will stay in the corner.
+Displays a pink Breast Cancer Awareness ribbon on the top right corner.  When hovered over, it will expand to approx. 300px. When clicked, it leads to Susan G. Komen foundation.
+Page Cornr has been modified by Desperately Seeking WordPress 
+on the occasion of Pink for October & Breast Cancer Awareness.
 
 == Installation ==
 1. From the plugin menu in wordpress, upload plugin to your installation.
@@ -25,13 +23,13 @@ In that way, PageCornr will stay in the corner.
 which includes a settings page to modify the image and text behind the page curl.
 
 ==Frequently Asked Questions === 
- Does it works with IE? 
-=Yes! IE 6 included!= 
+Does it works with IE? 
+=Yes! IE 6 included!
 
 
 == Changelog === 
 
 
 == Screenshots ==
-1. Page Cornr corner
+1. Top right hand corner of our website
 2. Page Cornr, when hovered with mouse

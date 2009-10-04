@@ -1,15 +1,15 @@
 <?php
 /*
 Plugin Name: Page Cornr for October
-Plugin URI: http://www.luxiano.com.ar/page-cornr/ (original plugin)
+Plugin URI: http://www.desperatelyseekingwp.com/2009/10/pink-for-october-plugin/
 Description: Adds a page peel in the corner of the site with a pink ribbon and the text "Pink for October"
 Version: 0.3.6
-Author: Luxiano(modifications by Cathy Tibbles)
-Author URI: http://www.luxiano.com.ar
+Author: Cathy Tibbles
+Author URI: http://desperatelyseekingwp.com
 */
 
 	// for version control and installation
-	define('pagecornr_VERSION', '0.3.6');
+	define('pagecornr_VERSION', '1.0.1');
 
   // detect the plugin path
 	$pagecornr_path = get_option('siteurl').'/wp-content/plugins/page-cornr-for-october'; //don't change

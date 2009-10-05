@@ -3,13 +3,13 @@
 Plugin Name: Page Cornr for October
 Plugin URI: http://www.desperatelyseekingwp.com/2009/10/pink-for-october-plugin/
 Description: Adds a page peel in the corner of the site with a pink ribbon and the text "Pink for October"
-Version: 1.1.1
+Version: 1.1.2
 Author: Cathy Tibbles
 Author URI: http://desperatelyseekingwp.com
 */
 
 	// for version control and installation
-	define('pagecornr_VERSION', '1.0.1');
+	define('pagecornr_VERSION', '1.1.2');
 
   // detect the plugin path
 	$pagecornr_path = get_option('siteurl').'/wp-content/plugins/page-cornr-for-october'; //don't change
@@ -64,8 +64,8 @@ img, div, a { behavior: url(<?php echo $pagecornr_path.'/iepngfix.htc'; ?>) }
 	if($pagecornr_version != pagecornr_VERSION) 
 	{
 		$pagecornr_version = pagecornr_VERSION; update_option('pagecornr_version', pagecornr_VERSION);
-		$pagecornr_ad_url = 'http://'; update_option('pagecornr_ad_url', $pagecornr_ad_url);
-		$pagecornr_ad_msg = 'None :P'; update_option('pagecornr_ad_msg', $pagecornr_ad_msg);
+		$pagecornr_ad_url = 'http://ww5.komen.org'; update_option('pagecornr_ad_url', $pagecornr_ad_url);
+		$pagecornr_ad_msg = ''; update_option('pagecornr_ad_msg', $pagecornr_ad_msg);
 		
 	}
 	
@@ -113,8 +113,8 @@ img, div, a { behavior: url(<?php echo $pagecornr_path.'/iepngfix.htc'; ?>) }
 			/*if(trim($pagecornr_version) == '') 
 			{
 				$pagecornr_version = pagecornr_VERSION;
-				$pagecornr_ad_url = 'http://';
-				$pagecornr_ad_msg = 'None :P';
+				$pagecornr_ad_url = 'http://ww5.komen.org';
+				$pagecornr_ad_msg = '';
 			}//	*/		
 			
 			echo '<div class="wrap"><h2>Page Cornr Options</h2><small style="display:block;text-align:right">Version: '.$pagecornr_version.'</small><form method="post" action="options-general.php?page=pagecornroptions">';		

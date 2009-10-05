@@ -13,7 +13,7 @@ Author URI: http://desperatelyseekingwp.com
 
   // detect the plugin path
 	$pagecornr_path = get_option('siteurl').'/wp-content/plugins/page-cornr-for-october'; //don't change
-	$pagecornr_img_corner = $pagecornr_path.'/images/corner.png';
+	$pagecornr_img_corner = $pagecornr_path.'/corner.png';
 
   //force WordPress to include jQuery
   add_action( 'wp_print_scripts', 'pagecornr_add_jquery' );

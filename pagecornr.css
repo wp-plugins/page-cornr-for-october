@@ -13,7 +13,7 @@ margin:0;
 border:none;
 }
 #pagecornr .bg_msg {
-	width: 100px; height: 104px;
+	width: 100px; height: 100px;
 	position: absolute;
 	z-index: 98;
 	right: 0; top: 0;

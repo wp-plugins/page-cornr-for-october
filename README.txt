@@ -3,7 +3,7 @@ Contributors: Cathy Tibbles, luciano,
 Tags: breast cancer, page flip, page peel, corner
 Requires at least: 2.7
 Tested up to: 2.8.4
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 Page Cornr has been modified by Desperately Seeking WordPress 
 on the occasion of Pink for October & Breast Cancer Awareness.
 
@@ -29,7 +29,9 @@ Does it works with IE?
 
 == Changelog === 
 1.1.1 - added link to Susan G. Komen foundation
-1.1.2 -added missing images
+1.1.2 - added missing images
+1.1.3 - added missing images again! 
+1.1.4 - display with shadow on recover
 
 == Screenshots ==
 1. Top right hand corner of our website

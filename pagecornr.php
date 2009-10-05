@@ -3,7 +3,7 @@
 Plugin Name: Page Cornr for October
 Plugin URI: http://www.desperatelyseekingwp.com/2009/10/pink-for-october-plugin/
 Description: Adds a page peel in the corner of the site with a pink ribbon and the text "Pink for October"
-Version: 0.3.6
+Version: 1.1
 Author: Cathy Tibbles
 Author URI: http://desperatelyseekingwp.com
 */
